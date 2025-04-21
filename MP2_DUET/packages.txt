@@ -1,0 +1,4 @@
+scipy==1.15.2
+speech_recognition==3.14.1
+numpy==2.2.2
+matplotlib==3.10.0
